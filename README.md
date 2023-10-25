@@ -78,16 +78,6 @@ Contributions to this project are welcome! If you have ideas for improving custo
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-**Note:** Replace `customer-churn-logo.png`, `yourusername/customer-churn-prediction`, and other placeholders with your specific information.
-
-For more information, visit [GitHub documentation](https://docs.github.com/en/github).
-
-Happy predicting customer churn!
-
-In this README, the "Dependencies" section lists the required software dependencies, and the "Clone" section provides instructions for cloning the repository. The "Best Model" section acknowledges the surprising equality in accuracy among the models. Feel free to customize these sections with your project's specific details and dependencies.
-
 
 
 
